@@ -5,7 +5,7 @@ Here I performed a GET Request to retrieve the Details of the planets. The respo
 [response.txt](https://github.com/SAYAN-2000/APIAutomation/files/10367327/response.txt)
 
 
-I validated 3 Test Cases and logged the results in Eclipse console as follows.
+I validated 3 Test Cases and logged the results in Eclipse console as follows.The Test Data is in the testdata.xlsx file under the resources folder.
 
 
 <img width="292" alt="screenshot" src="https://user-images.githubusercontent.com/85504665/211173193-f3cc3d85-d0ad-4e53-9f38-0bb42591cd6d.png">
